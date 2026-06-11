@@ -16,7 +16,7 @@ Technical Business Analyst with experience in ERP (Odoo), CRM, and EHS solutions
 - [Odoo ERP Implementation](case-studies/odoo-erp): 4 modules for 200+ users. Reduced manual reporting by 5 hrs/week.
 - [EHS Compliance Automation](case-studies/ehs-compliance): Standardized incident tracking and regulatory reporting for multi-site operations.
 - [Real Estate ERP](case-studies/dlf-nakheel): Requirements gathering & API integration support.
-- 
+  
 
 ## 📧 Contact
 - [LinkedIn Profile](https://www.linkedin.com/in/subha-laya-959b28232)
