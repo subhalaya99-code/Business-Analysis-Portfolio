@@ -11,7 +11,6 @@ Technical Business Analyst with experience in ERP (Odoo), CRM, and EHS solutions
 
 ## 📂 Featured Case Studies
 - [Odoo ERP Implementation](case-studies/odoo-erp): 4 modules for 200+ users. Reduced manual reporting by 5 hrs/week.
-- [Healthcare Compliance](case-studies/mediclinic): Managed documentation for 50,000+ patient records.
 - [Real Estate ERP](case-studies/dlf-nakheel): Requirements gathering & API integration support.
 
 ## 📧 Contact
