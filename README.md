@@ -3,7 +3,6 @@
 Technical Business Analyst with experience in ERP (Odoo), CRM, and EHS solutions. I bridge the gap between complex technical backends and business stakeholders to drive data-backed process optimization.
 
 ## 🛠 Skills Matrix
-## 🛠 Skills Matrix
 
 | Category | Tools & Methodologies |
 | :--- | :--- |
