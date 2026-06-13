@@ -18,5 +18,4 @@ I conducted an **AS-IS/TO-BE analysis** and mapped the optimized workflow using 
 ## Process Artifacts
 <img width="844" height="602" alt="image" src="https://github.com/user-attachments/assets/a3e0a9fa-4d79-4b97-8872-b37aeed9be65" />
 
-[Insert Image/Screenshot of your BPMN diagram here]
-*(Upload your .png or .jpg to tworkflow_diagram.png))
+
