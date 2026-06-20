@@ -8,7 +8,7 @@ Bridging the gap between business requirements and technical ERP (Odoo) solution
 | :--- | :--- |
 | **Business Analysis** | BRDs, FRDs, GAP Analysis, Target Operating Models, User Stories, UAT |
 | **ERP & Enterprise** | Odoo ERP, SAP Analytics, System Integration, REST/SOAP APIs |
-| **Data & Analytics** | SQL, Power BI, Advanced Data Modeling, Azure Data Lake |
+| **Data & Analytics** | SQL, Power BI, Advanced Data Modeling, Azure Data Lake | 
 | **Process & Workflow** | BPMN 2.0, UML, Agile/Scrum/Kanban, Design Thinking |
 | **EHS & Compliance** | GDPR, ISO Standards, Risk Assessment, Process Optimization |
 | **Technical Stack** | ASP.NET Core, HTML/CSS, JSON/XML Schemas |
